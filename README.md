@@ -25,7 +25,7 @@ plugins: [
 
 ## How to query and filter
 
-You can query the nodes created from Cosmic JS with the following:
+You can query the nodes created from Google Drive with the following:
 
 ```javascript
 query IndexQuery {
