@@ -1,0 +1,31 @@
+{
+  "version": "0.1.0",
+  "name": "@gridsome/source-google-docs",
+  "description": "Google docs source for Gridsome",
+  "homepage": "https://github.com/gridsome/gridsome/tree/master/packages/source-google-docs#readme",
+  "repository": "https://github.com/gridsome/gridsome/tree/master/packages/source-google-docs",
+  "main": "index.js",
+  "keywords": [
+    "gridsome",
+    "gridsome-plugin",
+    "gridsome-source",
+    "google docs"
+  ],
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "googleapis": "^40.0.0",
+    "json2md": "^1.6.3",
+    "lodash": "^4.17.11",
+    "readline-sync": "^1.4.9",
+    "yamljs": "^0.3.0"
+  },
+  "peerDependencies": {
+    "gridsome": "0.x"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "engines": {
+    "node": ">=8"
+  }
+}
