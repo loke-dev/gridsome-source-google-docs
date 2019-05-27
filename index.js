@@ -1,6 +1,6 @@
-const { getAuth } = require('./utils/auth')
-const { fetchGoogleDriveFiles } = require('./utils/google-drive')
-const { fetchGoogleDocsDocuments } = require('./utils/google-docs')
+const { getAuth } = require('./lib/auth')
+const { fetchGoogleDriveFiles } = require('./lib/google-drive')
+const { fetchGoogleDocsDocuments } = require('./lib/google-docs')
 
 class GoogleDocsSource {
   static defaultOptions () {
