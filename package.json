@@ -1,9 +1,9 @@
 {
   "version": "0.1.0",
-  "name": "@gridsome/source-google-docs",
+  "name": "gridsome-source-google-docs",
   "description": "Google docs source for Gridsome",
-  "homepage": "https://github.com/gridsome/gridsome/tree/master/packages/source-google-docs#readme",
-  "repository": "https://github.com/gridsome/gridsome/tree/master/packages/source-google-docs",
+  "homepage": "https://github.com/LokeCarlsson/gridsome-source-google-docs/tree/master#readme",
+  "repository": "https://github.com/LokeCarlsson/gridsome-source-google-docs",
   "main": "index.js",
   "keywords": [
     "gridsome",
