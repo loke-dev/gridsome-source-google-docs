@@ -12,7 +12,7 @@
     "google docs"
   ],
   "dependencies": {
-    "fs": "^0.0.1-security",
+    "fs": "^0.0.2",
     "googleapis": "^40.0.0",
     "json2md": "^1.6.3",
     "lodash": "^4.17.11",
