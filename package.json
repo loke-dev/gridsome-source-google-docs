@@ -13,7 +13,7 @@
   ],
   "dependencies": {
     "fs": "^0.0.1-security",
-    "googleapis": "^40.0.0",
+    "googleapis": "^49.0.0",
     "json2md": "^1.6.3",
     "lodash": "^4.17.11",
     "readline-sync": "^1.4.9",
